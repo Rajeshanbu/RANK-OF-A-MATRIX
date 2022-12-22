@@ -26,7 +26,7 @@ print(B)
 
 ```
 ## Output:
-![output](program.png)
+![output](pogram.png)
 
 
 ## Result:
